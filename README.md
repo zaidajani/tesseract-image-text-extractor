@@ -1,4 +1,4 @@
-# tesseract-image-text-extractor
+# Tesseract-image-text-extractor
 
 Extract text from image with OCR.
 
